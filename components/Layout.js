@@ -40,7 +40,7 @@ const Layout = ({ children, title, description }) => {
           }
         `}
       </style>
-      <style global jxs>
+      <style jxs='true'>
         {`
         body: {
             background: white;
